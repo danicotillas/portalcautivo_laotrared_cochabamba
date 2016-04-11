@@ -171,9 +171,6 @@ Spacer
 #spacer1{	
 	background-image: url(../img/hacklab.jpg);
 }
-#spacer2{	
-	background-image: url(../img/spacer/2.jpg);
-}
 
 
 /* ================================
@@ -183,7 +180,7 @@ Intro
 #intro{
     height:335px;
     width:100%;
-    background-color: #09C;
+    background-color: #333;
     background-image: url(../img/conexion.png);
     background-position:center;
     background-repeat:no-repeat;
@@ -709,7 +706,7 @@ more media queries
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #33B7E7;
+        background: #666;
     }
 }
 
